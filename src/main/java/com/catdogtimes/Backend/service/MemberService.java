@@ -1,6 +1,7 @@
 package com.catdogtimes.Backend.service;
 
 import com.catdogtimes.Backend.dto.MemberDTO;
+import com.catdogtimes.Backend.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
